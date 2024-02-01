@@ -1,7 +1,6 @@
 public class YusraJaserQuartsToGallons {
     public static void main(String[] args) {
 
-        final int QUARTS_TO_GALLON = 4;
         int Quarts = 18;
 
         int Gallons = Quarts / QUARTS_TO_GALLON;
